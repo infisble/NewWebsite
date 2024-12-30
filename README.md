@@ -1,3 +1,2 @@
 # NewWebsite by myself  <3
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/infisble/NewWebsite)
+this is my main website wich now i debbuging and updating 
